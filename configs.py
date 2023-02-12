@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = os.getenv("API_HASH", "447e00413945ab1a61882f9e474477d6")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5951589416:AAFK4i8saqax3tAZDUEfuT4HYPTj4Y6v7Fg")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Manraj")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "" )
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOKkBu6rbm9tAaXqylSkB-gj1Dxf5s4VauHFweEHfAVlsBCE_jF35TPOa6MweAcsSXQ7cojdvz0dLRaCKUlRD2I0QK_J6IqUjMqY_I97tHOnUMqgvEZSWOwkWpU4A42l-mMslUBc9FOWvA9nMEmgmB_VDKb4h6PliUnwFe-Y4WwYz6PFgvbn8tjg_hMu3EMlq-2bk1-scnHjVql0xUC-JlaUv3saPed1NChWQATJOI8kpn_zhQV8EQ5dEK1FoGYs4LJAEwoJi59FeZCskp3HtgvMs7kKDRHMlKYW-KW3a2BNbDKZLme8oTDFD4IDKBgju0lqk5k-e4GZ5d9omLXxgDnuY9y4=" )
 #   Channel id where your posts are stored.
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001388457744")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "Manraj")
